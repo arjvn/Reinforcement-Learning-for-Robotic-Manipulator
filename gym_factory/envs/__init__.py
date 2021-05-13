@@ -1,0 +1,1 @@
+from gym_factory.envs.factory_env import FactoryEnv

@@ -1,0 +1,13 @@
+#Install the virtualenv package
+pip install virtualenv
+# Create the virtual environment
+virtualenv mypython
+# Activate the virtual environment
+source mypython/bin/activate
+
+# Install Dependencies
+
+torch=1.7.0
+matplotlib=3.3.3
+numpy=1.19.4
+gym=0.17.3
